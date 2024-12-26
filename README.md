@@ -1,11 +1,11 @@
-             AMAZON SALES REPORT DASHBOARD USING TABLEAU
+                                                      AMAZON SALES REPORT DASHBOARD USING TABLEAU
 
 Problem Statement:
       Analyze and Provide Insights on Amazon Sales Report
      
 
 Problem DescripƟon:
-    The provided dataset contains informaƟon about sales transacƟons on Amazon, including details such as order
+The provided dataset contains informaƟon about sales transacƟons on Amazon, including details such as order
 ID, date, status, fulfilment method, sales channel, product category, size, quanƟty, amount, shipping details,
 and more. The objecƟve is to conduct a comprehensive analysis of the data and extract acƟonable insights to
 support business decision-making.
