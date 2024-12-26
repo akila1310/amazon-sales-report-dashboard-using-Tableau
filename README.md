@@ -41,7 +41,7 @@ analysis should provide acƟonable recommendaƟons tailored to the specific need
 
 
 Datasets: 
-    hƩps://drive.google.com/file/d/1YrjYKtS1WHmINL6eafRsrDzrZaw2_WvX/view?usp=sharing
+    https://drive.google.com/file/d/1YrjYKtS1WHmINL6eafRsrDzrZaw2_WvX/view?usp=sharing
 
-DASHBOARD LIVR INTERACTION LINK :
+DASHBOARD LIVE INTERACTION LINK :
        https://public.tableau.com/app/profile/akila.s6470/viz/AmazonSalesReport_17352164343310/Dashboard3?publish=yes
